@@ -1,5 +1,5 @@
 # Project Title: Stock Price Prediction with Custom RNN
-## Overview
+# Overview
 This project demonstrates the implementation of a custom RNN (Recurrent Neural Network) for predicting stock prices using historical stock data. The model is built using TensorFlow and Keras, with custom RNN cells and layers. The performance of the model is evaluated using various metrics such as MAE, RMSE, MAPE, and Directional Accuracy.
 
 #Data Preparation
