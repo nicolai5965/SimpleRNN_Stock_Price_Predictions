@@ -31,4 +31,4 @@ This project demonstrates the implementation of a custom RNN (Recurrent Neural N
 * The actual and predicted stock prices (normalized and unnormalized) are plotted to visually assess the model's performance.
 
 # Conclusion
-The custom RNN model serves as a proof of concept for predicting stock prices using historical data. The model's performance can be further improved by tuning the hyperparameters, using more advanced RNN architectures like LSTM or GRU, or incorporating additional features and external data sources.
+The custom RNN model serves as a proof of concept for predicting stock prices using historical data. The model's performance can be further improved by tuning the hyperparameters, using more advanced RNN architectures like LSTM or GRU, or incorporating additional features and external data sources. 
